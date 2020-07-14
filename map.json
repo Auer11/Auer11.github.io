@@ -1,0 +1,2821 @@
+{
+    "Field Offices": [
+      {
+         "Address": "263C ROBERT H BRADLEY DR, ALAMOGORDO, NM 88310",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8-4",
+         "Id": "130",
+         "Lat": "32.9311593",
+         "Long": "-105.9597230",
+         "Name": "Alamogordo",
+         "Phone": "(575) 437-9226",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "1451 4TH ST SE, ALBUQUERQUE, NM 87117",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8-4",
+         "Id": "131",
+         "Lat": "35.0545273",
+         "Long": "-106.5514986",
+         "Name": "Albuquerque - Kirtland AFB",
+         "Phone": "(505) 846-8390",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "801 4TH ST NW, ALBUQUERQUE, NM 87102",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8-4",
+         "Id": "132",
+         "Lat": "35.0926701",
+         "Long": "-106.6504323",
+         "Name": "Albuquerque - Metro Court MVD",
+         "Phone": "(505) 764-6650",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "4575 SAN MATEO BLVD NE, ALBUQUERQUE, NM 87109",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8-4",
+         "Id": "133",
+         "Lat": "35.1340503",
+         "Long": "-106.5881025",
+         "Name": "Albuquerque - Montgomery Plaza",
+         "Phone": "(505) 875-0715",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "3211 Coors SW Ste D10 and D11, Albuquerque, NM 87121-5255",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8-4",
+         "Id": "134",
+         "Lat": "35.0288169",
+         "Long": "-106.7158253",
+         "Name": "Albuquerque - Rio Bravo",
+         "Phone": "(505) 452-9240",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "11500 MENAUL BLVD NE STE F1, ALBUQUERQUE, NM 87112",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8 - 4",
+         "Id": "135",
+         "Lat": "35.1082452",
+         "Long": "-106.5139042",
+         "Name": "Albuquerque - Sandia Vista",
+         "Phone": "(505) 292-4570",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "27 Halo Pines Terrace, Angel Fire, NM 87710",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8-12 & 1-4:30",
+         "Id": "136",
+         "Lat": "36.3983295",
+         "Long": "-105.2860003",
+         "Name": "Angel Fire",
+         "Phone": "575-425-1028",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "602 S 1ST ST, ARTESIA, NM 88210",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8:30 - 4:30",
+         "Id": "137",
+         "Lat": "32.8366384",
+         "Long": "-104.3972729",
+         "Name": "Artesia",
+         "Phone": "(575) 746-1323",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "201 W CHACO ST STE 5, AZTEC, NM 87410",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Thursday 7-4:30",
+         "Id": "138",
+         "Lat": "36.8238429",
+         "Long": "-107.9968429",
+         "Name": "Aztec",
+         "Phone": "(505) 334-7690",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "800 Central Ave, Bayard, NM 88023",
+         "AlternateAddress": "P.O. Box 728 Drawer T, Bayard, NM 88023",
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8:30-1 and 2-4:30",
+         "Id": "139",
+         "Lat": "32.7593667",
+         "Long": "-108.1318364",
+         "Name": "Bayard",
+         "Phone": "(575) 537-5313",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "100 S 5TH ST, BELEN, NM 87002",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8-4",
+         "Id": "140",
+         "Lat": "34.6597649",
+         "Long": "-106.7727233",
+         "Name": "Belen",
+         "Phone": "(505) 864-5260",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "829 S CAMINO DEL PUEBLO, BERNALILLO, NM 87004",
+         "AlternateAddress": "P.O. Box 638, Bernalillo, NM 87004",
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8:30-4:30",
+         "Id": "141",
+         "Lat": "35.3044737",
+         "Long": "-106.5496300",
+         "Name": "Bernalillo",
+         "Phone": "(505) 867-5171",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "711 RUTH LN, BLOOMFIELD, NM 87413",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8-4, Saturday 8-12",
+         "Id": "142",
+         "Lat": "36.7158761",
+         "Long": "-107.9980467",
+         "Name": "Bloomfield",
+         "Phone": "(505) 632- 6320",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "3607 NATIONAL PARKS HWY, CARLSBAD, NM 88220",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8-4",
+         "Id": "143",
+         "Lat": "32.3794460",
+         "Long": "-104.2272838",
+         "Name": "Carlsbad",
+         "Phone": "(575) 885-2251",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "105 6th St, Carrizozo, NM 88301",
+         "AlternateAddress": "P.O. Box 247, Carrizozo, NM 88301",
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Thursday 8-11 and 12-3:30",
+         "Id": "144",
+         "Lat": "33.6475589",
+         "Long": "-105.8784741",
+         "Name": "Carrizozo",
+         "Phone": "(575) 648-2371",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "299 4th Street, Chama, NM 87520",
+         "AlternateAddress": "P.O. Box 794, Chama, NM 87520",
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8:30-12 and 1-4:30",
+         "Id": "145",
+         "Lat": "36.9042795",
+         "Long": "-106.5802919",
+         "Name": "Chama",
+         "Phone": "575-756-2533",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "Cimarron NM",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": null,
+         "Id": "360",
+         "Lat": "36.5094",
+         "Long": "-104.9156",
+         "Name": "Cimarron - This office is closed until further notice.",
+         "Phone": null,
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "834 MAIN ST, CLAYTON, NM 88415",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8-4",
+         "Id": "146",
+         "Lat": "36.4546074",
+         "Long": "-103.1754316",
+         "Name": "Clayton",
+         "Phone": "(575) 374-9502",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "201 BURRO AVE, CLOUDCROFT, NM 88317",
+         "AlternateAddress": "P.O. Box 317, Cloudcroft, NM 88317",
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 9-3:30",
+         "Id": "147",
+         "Lat": "32.9582273",
+         "Long": "-105.7449831",
+         "Name": "Cloudcroft",
+         "Phone": "(575) 682-2411",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "814 W 6TH ST, CLOVIS, NM 88101",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8-4",
+         "Id": "148",
+         "Lat": "34.4038692",
+         "Long": "-103.2150377",
+         "Name": "Clovis",
+         "Phone": "(575) 762-3732",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "Main Street Highway 54, Corona, NM 88318",
+         "AlternateAddress": "P.O. Box 264, Corona, NM 88318",
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Tuesday-Friday 8-3",
+         "Id": "149",
+         "Lat": "34.2600122",
+         "Long": "-105.5854822",
+         "Name": "Corona",
+         "Phone": "(575) 849-5511",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "16 B East Cordova St, Cuba, NM 87103",
+         "AlternateAddress": "P.O. Box 426, Cuba, NM 87103",
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8-4:30",
+         "Id": "150",
+         "Lat": "36.0131020",
+         "Long": "-106.9622450",
+         "Name": "Cuba",
+         "Phone": "(575) 289-2538",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "700 E SPRUCE ST, DEMING, NM 88030",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 7:30-1:00 and 1:30-3:00",
+         "Id": "151",
+         "Lat": "32.2682156",
+         "Long": "-107.7506903",
+         "Name": "Deming",
+         "Phone": "(575) 546-2088",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "204 E Second, Dexter, NM 88230",
+         "AlternateAddress": "P.O. Box 610, Dexter, NM 88230",
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Thursday 8-12:30 and 1-4",
+         "Id": "152",
+         "Lat": "33.1963674",
+         "Long": "-104.3729970",
+         "Name": "Dexter",
+         "Phone": "(575) 734-0042",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "1121 SANTA CLARA PEAK RD, ESPANOLA, NM 87532",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8-4",
+         "Id": "153",
+         "Lat": "36.0107664",
+         "Long": "-106.0916893",
+         "Name": "Espanola",
+         "Phone": "(505) 753-4681",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "513 Williams Ave, Estancia, NM 87016",
+         "AlternateAddress": "P.O. Box 166, Estancia, NM 87016",
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8:30-12 and 1:30-5",
+         "Id": "154",
+         "Lat": "34.7584495",
+         "Long": "-106.0567161",
+         "Name": "Estancia",
+         "Phone": "(505) 384-2708",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "1101 Ave J, Eunice, NM 88231",
+         "AlternateAddress": "P.O. Box 147, Eunice, NM 88231",
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8-12 and 1-4:30",
+         "Id": "155",
+         "Lat": "32.4373335",
+         "Long": "-103.1570565",
+         "Name": "Eunice",
+         "Phone": "(575) 394-3232 ext. 108",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "3501 E Main St #N, Farmington, NM 87402",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8-4",
+         "Id": "156",
+         "Lat": "36.7498292",
+         "Long": "-108.1583394",
+         "Name": "Farmington",
+         "Phone": "(505) 599-9712",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "501 Ave C, Fort Sumner, NM 88119",
+         "AlternateAddress": "P.O. Box 180, Fort Sumner, NM 88119",
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8:30-12:30 and 1:30-4",
+         "Id": "157",
+         "Lat": "34.4714343",
+         "Long": "-104.2422371",
+         "Name": "Fort Sumner",
+         "Phone": "(575) 355-2401",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "1710 E AZTEC AVE, GALLUP, NM 87301",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8-4",
+         "Id": "158",
+         "Lat": "35.5283586",
+         "Long": "-108.7166972",
+         "Name": "Gallup",
+         "Phone": "(505) 863-3847",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "1016 NIMITZ DR, GRANTS, NM 87020",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8-4",
+         "Id": "159",
+         "Lat": "35.1584042",
+         "Long": "-107.8328876",
+         "Name": "Grants",
+         "Phone": "(505) 287-8892",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "133 N Franklin, Hatch, NM 87937",
+         "AlternateAddress": "P.O. Box 220, Hatch, NM 87937",
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8-12 and 1-4",
+         "Id": "160",
+         "Lat": "32.6660745",
+         "Long": "-107.1537882",
+         "Name": "Hatch",
+         "Phone": "(575) 267-1686",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "4800 JACK GOMEZ BLVD, HOBBS, NM 88240",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8-3",
+         "Id": "161",
+         "Lat": "32.7777187",
+         "Long": "-103.1975586",
+         "Name": "Hobbs",
+         "Phone": "(575) 397-9213",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "523 Main Street, Jal, NM 88252",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8am-12:00pm",
+         "Id": "162",
+         "Lat": "32.1112053",
+         "Long": "-103.1939226",
+         "Name": "Jal",
+         "Phone": "(575) 395-2222",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "80 JEMEZ SPRINGS PLZ, JEMEZ SPRINGS, NM 87025",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Thursday 8:30-4:00",
+         "Id": "197",
+         "Lat": "35.7717439",
+         "Long": "-106.6908241",
+         "Name": "Jemez Springs",
+         "Phone": "(575) 829-3540",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "3291 DEL REY BLVD STE 10, LAS CRUCES, NM 88012",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8-4",
+         "Id": "164",
+         "Lat": "32.3524634",
+         "Long": "-106.7674489",
+         "Name": "Las Cruces - Del Rey",
+         "Phone": "(575) 647-2044",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "505 S Main St #357, Las Cruces, NM 88001",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8-4",
+         "Id": "163",
+         "Lat": "32.3042072",
+         "Long": "-106.7757337",
+         "Name": "Las Cruces - Main Street",
+         "Phone": "(575) 524-6215",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "2522 RIDGE RUNNER RD, LAS VEGAS, NM 87701",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8-4",
+         "Id": "165",
+         "Lat": "35.6213626",
+         "Long": "-105.2300399",
+         "Name": "Las Vegas",
+         "Phone": "(505) 425-8122",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "Village Office 108A US 54, Logan, NM 88426",
+         "AlternateAddress": "P.O. Box 7, Logan, NM 88426",
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday and Friday 8-11:30 and 1-3:30",
+         "Id": "166",
+         "Lat": "35.4397623",
+         "Long": "-103.3246403",
+         "Name": "Logan",
+         "Phone": "(575) 487-2815",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "809 MAIN ST, LORDSBURG, NM 88045",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8:00-12:00,1:00-4:00",
+         "Id": "167",
+         "Lat": "32.3444806",
+         "Long": "-108.7111175",
+         "Name": "Lordsburg",
+         "Phone": "(575) 542-3706",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "997 CENTRAL AVE, LOS ALAMOS, NM 87544",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8-11:30 and 1-4",
+         "Id": "168",
+         "Lat": "35.8810020",
+         "Long": "-106.2951064",
+         "Name": "Los Alamos",
+         "Phone": "(505) 662-4243",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "1204 MAIN ST NE STE A, LOS LUNAS, NM 87031",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8-4",
+         "Id": "169",
+         "Lat": "34.8067518",
+         "Long": "-106.7217424",
+         "Name": "Los Lunas",
+         "Phone": "(505) 865-9218",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "Loving NM",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": null,
+         "Id": "361",
+         "Lat": "32.2856",
+         "Long": "-104.0967",
+         "Name": "Loving - This office is closed until further notice.",
+         "Phone": null,
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "1211 S MAIN AVE, LOVINGTON, NM 88260",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Thursday 7:30-4:30 and Friday 7:30-11:00",
+         "Id": "170",
+         "Lat": "32.9359439",
+         "Long": "-103.3481250",
+         "Name": "Lovington",
+         "Phone": "(575) 396-5358",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "105 E. Ave B, Melrose, NM 88124",
+         "AlternateAddress": "P.O. Box 318, Melrose, NM 88124",
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Thursday 9-4 and Friday 8-5",
+         "Id": "171",
+         "Lat": "34.4274943",
+         "Long": "-103.6324007",
+         "Name": "Melrose",
+         "Phone": "575-352-4274",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "Highway 518 Main Street, Mora, NM 87732",
+         "AlternateAddress": "P.O. Box 267, Mora, NM 87732",
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Tuesday, Thursday, Friday 8-12 and 1-4 and Wednesday 8-12",
+         "Id": "172",
+         "Lat": "35.9751491",
+         "Long": "-105.3341954",
+         "Name": "Mora",
+         "Phone": "(575) 387-5705",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "201 Broadway, Moriarty, NM 87035",
+         "AlternateAddress": "P.O. Box 639, Moriarty, NM 87035",
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8-4",
+         "Id": "173",
+         "Lat": "35.0029166",
+         "Long": "-106.0503883",
+         "Name": "Moriarty",
+         "Phone": "(505) 832-6218",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "107 N Roosevelt Avenue, Mountainair, NM 87036",
+         "AlternateAddress": "P.O. Box 115, Mountainair, NM 87036",
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8:30-12 and 1-3:45",
+         "Id": "174",
+         "Lat": "34.5210302",
+         "Long": "-106.2436414",
+         "Name": "Mountainair",
+         "Phone": "(505) 847-2591",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "Municipal Bldg Highway 63, Pecos, NM 87552",
+         "AlternateAddress": "P.O. Drawer 337, Pecos, NM 87552",
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8-4",
+         "Id": "175",
+         "Lat": "35.5672686",
+         "Long": "-105.6777194",
+         "Name": "Pecos",
+         "Phone": "(505) 757-6591",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "1410 S AVENUE O, PORTALES, NM 88130",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8-4",
+         "Id": "176",
+         "Lat": "34.1771179",
+         "Long": "-103.3523240",
+         "Name": "Portales",
+         "Phone": "(575) 356-8711",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "2500 Old St Rd #3, PO Box 260 Questa, NM 87556",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8-11:45 and 1-4",
+         "Id": "177",
+         "Lat": "36.7039143",
+         "Long": "-105.5950065",
+         "Name": "Questa",
+         "Phone": "(575) 586-2429",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "1277 S 2ND ST STE B, RATON, NM 87740",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8-4",
+         "Id": "178",
+         "Lat": "36.8788261",
+         "Long": "-104.4382126",
+         "Name": "Raton",
+         "Phone": "(575) 445-3919",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "100 E Main Street, Red River, NM 87558",
+         "AlternateAddress": "P.O. Box 1020, Red River, NM 87558",
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8-12:00 and 1-4:00",
+         "Id": "181",
+         "Lat": "36.7081756",
+         "Long": "-105.4057691",
+         "Name": "Red River",
+         "Phone": "(575) 754-2277",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "Main St, Reserve, NM 87830",
+         "AlternateAddress": "P.O. Box 163, Reserve, NM 87830",
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Mon-Fri 8-12, 1-4",
+         "Id": "179",
+         "Lat": "33.7087817",
+         "Long": "-108.7578461",
+         "Name": "Reserve",
+         "Phone": "(575) 533-6235",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "4114 SABANA GRANDE AVE SE, RIO RANCHO, NM 87124",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8-4",
+         "Id": "180",
+         "Lat": "35.2428177",
+         "Long": "-106.6537692",
+         "Name": "Rio Rancho",
+         "Phone": "(505) 891-5014",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "200 E WILSHIRE BLVD, ROSWELL, NM 88201",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8-4",
+         "Id": "182",
+         "Lat": "33.4266933",
+         "Long": "-104.5202738",
+         "Name": "Roswell",
+         "Phone": "(575) 624-6062",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "425 Chicosa, Roy, NM 87743",
+         "AlternateAddress": "P.O. Box 10, Roy, NM 87743",
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Tuesday and Friday 8-12 and 1-3",
+         "Id": "183",
+         "Lat": "35.9450573",
+         "Long": "-104.1967048",
+         "Name": "Roy",
+         "Phone": "(575) 485-2541",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "301 W Hwy 70 #3, Ruidoso, NM 88345",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8-4",
+         "Id": "184",
+         "Lat": "33.3189924",
+         "Long": "-105.6294502",
+         "Name": "Ruidoso",
+         "Phone": "(575) 378-8550",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "2546 CAMINO ENTRADA, SANTA FE, NM 87507",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8-4",
+         "Id": "185",
+         "Lat": "35.6341951",
+         "Long": "-106.0253994",
+         "Name": "Santa Fe",
+         "Phone": "(505) 476-1599",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "141 S 5TH ST, SANTA ROSA, NM 88435",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8-12 and 1-4:30",
+         "Id": "186",
+         "Lat": "34.9421285",
+         "Long": "-104.6860074",
+         "Name": "Santa Rosa",
+         "Phone": "(575) 472-5297",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "1876 HIGHWAY 180 E, SILVER CITY, NM 88061",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8-4",
+         "Id": "187",
+         "Lat": "32.7843332",
+         "Long": "-108.2611789",
+         "Name": "Silver City",
+         "Phone": "(575) 538-3281",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "102 6TH ST S, SOCORRO, NM 87801",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8-12 and 1-4",
+         "Id": "188",
+         "Lat": "34.0581678",
+         "Long": "-106.8902347",
+         "Name": "Socorro",
+         "Phone": "(575) 835-0768",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "501B 3RD ST, SPRINGER, NM 87747",
+         "AlternateAddress": "P.O. Box 99, Springer, NM 87747",
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday, Wednesday and Thursday 8-12 and 1-3",
+         "Id": "189",
+         "Lat": "36.3599300",
+         "Long": "-104.5961027",
+         "Name": "Springer",
+         "Phone": "(575) 483-2802",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "880 MCNUTT RD, SUNLAND PARK, NM 88063",
+         "AlternateAddress": "P.O. Box 3290, Sunland Park, NM 88063",
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8-3:00",
+         "Id": "190",
+         "Lat": "31.7964419",
+         "Long": "-106.5545171",
+         "Name": "Sunland Park",
+         "Phone": "(575) 589-5015",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "1038 SALAZAR RD, TAOS, NM 87571",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8-4",
+         "Id": "191",
+         "Lat": "36.3844535",
+         "Long": "-105.5956226",
+         "Name": "Taos",
+         "Phone": "(575) 758-4226",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "122 E Broadway, Tatum, NM 88267",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Thursday 7:30-4:00",
+         "Id": "198",
+         "Lat": "33.2569349",
+         "Long": "-103.3161145",
+         "Name": "Tatum",
+         "Phone": "(575) 398-2478",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "163 NEW SCHOOL RD, T OR C, NM 87901",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8-4",
+         "Id": "192",
+         "Lat": "33.1491881",
+         "Long": "-107.2493696",
+         "Name": "Truth or Consequences",
+         "Phone": "(575) 894-6529",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "122 W MAIN ST, TUCUMCARI, NM 88401",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8-12 and 1-4:00",
+         "Id": "193",
+         "Lat": "35.1788519",
+         "Long": "-103.7264468",
+         "Name": "Tucumcari",
+         "Phone": "(575) 461-4105",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "705 ST FRANCIS DR, TULAROSA, NM 88352",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Friday 8-12 and 1-4",
+         "Id": "194",
+         "Lat": "33.0735473",
+         "Long": "-106.0186022",
+         "Name": "Tularosa",
+         "Phone": "(575) 585-8252",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "600 Carton Ave City Hall, Wagon Mound, NM 87752",
+         "AlternateAddress": "P.O. Box 87 City Hall, Wagon Mound, NM 87752",
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Thursday 9-12 and 1-4 and Friday 9-12 and 1-3",
+         "Id": "195",
+         "Lat": "36.0091288",
+         "Long": "-104.7050574",
+         "Name": "Wagon Mound",
+         "Phone": "(575) 666-2408",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "Building 200, White Sands, NM 88002",
+         "AlternateAddress": "P.O. Box 224, White Sands, NM 88002",
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "MVD Field Office",
+         "Hours": "Monday-Thursday 8-3:30 and Friday 8-2",
+         "Id": "196",
+         "Lat": "32.3815914",
+         "Long": "-106.4878136",
+         "Name": "White Sands",
+         "Phone": "(575) 678-8824",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      }
+   ],
+
+  "Ports of Entry": [
+      {
+          "Address": "Cedar Hill NM",
+          "AlternateAddress": null,
+          "DateModified": "0001-01-01T00:00:00",
+          "Fax": null,
+          "FieldOfficeFound": "false",
+          "FieldOfficeId": "0",
+          "Group": "District 1",
+          "Hours": null,
+          "Id": "362",
+          "Lat": "36.9369",
+          "Long": "-107.8903",
+          "Name": "Cedar Hill - This office is closed until further notice.",
+          "Phone": null,
+          "Status": "false",
+          "Type": {
+              "@nil": "true"
+          }
+      },
+      {
+          "Address": "Eastbound I-40 (MM12), Gallup, NM 87301",
+          "AlternateAddress": null,
+          "DateModified": "0001-01-01T00:00:00",
+          "Fax": null,
+          "FieldOfficeFound": "false",
+          "FieldOfficeId": "0",
+          "Group": "District 1",
+          "Hours": "24 Hrs",
+          "Id": "260",
+          "Lat": "35.5306210",
+          "Long": "-108.7434273",
+          "Name": "Gallup (Headquarters)",
+          "Phone": "505-905-3265, 505-905-8045, 505-905-2361- POE",
+          "Status": "false",
+          "Type": {
+              "@nil": "true"
+          }
+      },
+      {
+          "Address": "US 666/64 (MM 23), Shiprock, NM  87420",
+          "AlternateAddress": null,
+          "DateModified": "0001-01-01T00:00:00",
+          "Fax": null,
+          "FieldOfficeFound": "false",
+          "FieldOfficeId": "0",
+          "Group": "District 1",
+          "Hours": "M-F 6a-8p",
+          "Id": "261",
+          "Lat": "36.7855543",
+          "Long": "-108.6870322",
+          "Name": "Shiprock",
+          "Phone": "505-368-4429, 505-368-4616",
+          "Status": "false",
+          "Type": {
+              "@nil": "true"
+          }
+      },
+      {
+          "Address": "US 54 East (MM 349), Nara Visa, NM 88430",
+          "AlternateAddress": null,
+          "DateModified": "0001-01-01T00:00:00",
+          "Fax": null,
+          "FieldOfficeFound": "false",
+          "FieldOfficeId": "0",
+          "Group": "District 2",
+          "Hours": "7 days 6a-4p",
+          "Id": "263",
+          "Lat": "35.6072090",
+          "Long": "-103.1008312",
+          "Name": "Nara Visa",
+          "Phone": "505-633-2929, 505-633-2086",
+          "Status": "false",
+          "Type": {
+              "@nil": "true"
+          }
+      },
+      {
+          "Address": "Westbound I-40 (MM356), San Jon, NM 88434",
+          "AlternateAddress": null,
+          "DateModified": "0001-01-01T00:00:00",
+          "Fax": null,
+          "FieldOfficeFound": "false",
+          "FieldOfficeId": "0",
+          "Group": "District 2",
+          "Hours": "24 hrs",
+          "Id": "262",
+          "Lat": "35.1147611",
+          "Long": "-103.3320660",
+          "Name": "San Jon (Headquarters)",
+          "Phone": "575-576-2743, 575-576-3743, 575-576-2306, 575-576-2461- POE",
+          "Status": "false",
+          "Type": {
+              "@nil": "true"
+          }
+      },
+      {
+          "Address": "1530 Wheeler Ave, Texico, NM 88135",
+          "AlternateAddress": null,
+          "DateModified": "0001-01-01T00:00:00",
+          "Fax": null,
+          "FieldOfficeFound": "false",
+          "FieldOfficeId": "0",
+          "Group": "District 2",
+          "Hours": "M-F 8a-12p",
+          "Id": "264",
+          "Lat": "34.3886950",
+          "Long": "-103.0513768",
+          "Name": "Texico",
+          "Phone": "505-482-3271, 505-482-9456",
+          "Status": "false",
+          "Type": {
+              "@nil": "true"
+          }
+      },
+      {
+          "Address": "102 US Hwy 285, Vaughn, NM 88353",
+          "AlternateAddress": null,
+          "DateModified": "0001-01-01T00:00:00",
+          "Fax": null,
+          "FieldOfficeFound": "false",
+          "FieldOfficeId": "0",
+          "Group": "District 2",
+          "Hours": "M-F 8a - 5p",
+          "Id": "265",
+          "Lat": "37.5863614",
+          "Long": "-106.1490332",
+          "Name": "Vaughn",
+          "Phone": "575-584-2361, 575-584-2361",
+          "Status": "false",
+          "Type": {
+              "@nil": "true"
+          }
+      },
+      {
+          "Address": "US 62/180 (MM 26), Carlsbad, NM 88220",
+          "AlternateAddress": null,
+          "DateModified": "0001-01-01T00:00:00",
+          "Fax": null,
+          "FieldOfficeFound": "false",
+          "FieldOfficeId": "0",
+          "Group": "District 3",
+          "Hours": "M-Th 7-5p",
+          "Id": "267",
+          "Lat": "32.4986416",
+          "Long": "-104.0612339",
+          "Name": "Carlsbad",
+          "Phone": "575-885-2026, 575-885-2026",
+          "Status": "false",
+          "Type": {
+              "@nil": "true"
+          }
+      },
+      {
+          "Address": "3600 Seminole Hwy, Hobbs, NM  88240",
+          "AlternateAddress": null,
+          "DateModified": "0001-01-01T00:00:00",
+          "Fax": null,
+          "FieldOfficeFound": "false",
+          "FieldOfficeId": "0",
+          "Group": "District 3",
+          "Hours": "M-F 8-5",
+          "Id": "268",
+          "Lat": "32.7259443",
+          "Long": "-103.0920012",
+          "Name": "Hobbs",
+          "Phone": "575-393-4362, 575-397-7168",
+          "Status": "false",
+          "Type": {
+              "@nil": "true"
+          }
+      },
+      {
+          "Address": "1600 SE MAIN ST STE A, ROSWELL, NM 88203",
+          "AlternateAddress": null,
+          "DateModified": "0001-01-01T00:00:00",
+          "Fax": null,
+          "FieldOfficeFound": "false",
+          "FieldOfficeId": "0",
+          "Group": "District 3",
+          "Hours": "M-Th 8-5p",
+          "Id": "266",
+          "Lat": "33.4086505",
+          "Long": "-104.5228615",
+          "Name": "Roswell (Headquarters)",
+          "Phone": "575-624-1545 , 575-623-4782",
+          "Status": "false",
+          "Type": {
+              "@nil": "true"
+          }
+      },
+      {
+          "Address": "Tatum NM",
+          "AlternateAddress": null,
+          "DateModified": "0001-01-01T00:00:00",
+          "Fax": null,
+          "FieldOfficeFound": "false",
+          "FieldOfficeId": "0",
+          "Group": "District 3",
+          "Hours": null,
+          "Id": "363",
+          "Lat": "33.2553",
+          "Long": "-103.3161",
+          "Name": "Tatum - This office is closed until further notice.",
+          "Phone": null,
+          "Status": "false",
+          "Type": {
+              "@nil": "true"
+          }
+      },
+      {
+          "Address": "Eastbound I-10 (MM 23), Lordsburg, NM 88045",
+          "AlternateAddress": null,
+          "DateModified": "0001-01-01T00:00:00",
+          "Fax": null,
+          "FieldOfficeFound": "false",
+          "FieldOfficeId": "0",
+          "Group": "District 4",
+          "Hours": "24 hrs",
+          "Id": "269",
+          "Lat": "32.3426339",
+          "Long": "-108.7127738",
+          "Name": "Lordsburg",
+          "Phone": "575-542-8811,575-542-8812, 575-542-8871",
+          "Status": "false",
+          "Type": {
+              "@nil": "true"
+          }
+      },
+      {
+          "Address": "Westbound (MM 159) 159, Anthony, NM 88021",
+          "AlternateAddress": null,
+          "DateModified": "0001-01-01T00:00:00",
+          "Fax": null,
+          "FieldOfficeFound": "false",
+          "FieldOfficeId": "0",
+          "Group": "District 6",
+          "Hours": "24 hrs",
+          "Id": "270",
+          "Lat": "31.9802641",
+          "Long": "-107.1957203",
+          "Name": "Anthony Headquarters",
+          "Phone": "575-882-2471, 575-882-7227, 575-882-3707 - POE, 575-882-3048",
+          "Status": "false",
+          "Type": {
+              "@nil": "true"
+          }
+      },
+      {
+          "Address": "700 Pete Domenici Blvd, Santa Teresa, NM 88008",
+          "AlternateAddress": null,
+          "DateModified": "0001-01-01T00:00:00",
+          "Fax": null,
+          "FieldOfficeFound": "false",
+          "FieldOfficeId": "0",
+          "Group": "District 6",
+          "Hours": "M-Sat. 7am to 8pm",
+          "Id": "271",
+          "Lat": "31.8544169",
+          "Long": "-106.6842732",
+          "Name": "Santa Teresa POE",
+          "Phone": "575-589-3595, 575-589-3594",
+          "Status": "false",
+          "Type": {
+              "@nil": "true"
+          }
+      },
+      {
+          "Address": "US 54 Mile Marker 41, Orogrande, NM",
+          "AlternateAddress": null,
+          "DateModified": "0001-01-01T00:00:00",
+          "Fax": null,
+          "FieldOfficeFound": "false",
+          "FieldOfficeId": "0",
+          "Group": "District 7",
+          "Hours": "Random",
+          "Id": "272",
+          "Lat": "32.3767901",
+          "Long": "-106.0917722",
+          "Name": "Orogrande",
+          "Phone": "505-476-4259, 505-476-4260",
+          "Status": "false",
+          "Type": {
+              "@nil": "true"
+          }
+      },
+      {
+          "Address": "US 87 East (MM 8), Clayton, NM  88415",
+          "AlternateAddress": null,
+          "DateModified": "0001-01-01T00:00:00",
+          "Fax": null,
+          "FieldOfficeFound": "false",
+          "FieldOfficeId": "0",
+          "Group": "District 8",
+          "Hours": "M-F 7a-3p",
+          "Id": "273",
+          "Lat": "36.4369130",
+          "Long": "-103.1748606",
+          "Name": "Clayton",
+          "Phone": "505-827-3299, 575-374-9341",
+          "Status": "false",
+          "Type": {
+              "@nil": "true"
+          }
+      },
+      {
+          "Address": "I-25 Exit 460 Raton Pass, Raton, NM 87740",
+          "AlternateAddress": null,
+          "DateModified": "0001-01-01T00:00:00",
+          "Fax": null,
+          "FieldOfficeFound": "false",
+          "FieldOfficeId": "0",
+          "Group": "District 8",
+          "Hours": "24 hrs",
+          "Id": "274",
+          "Lat": "36.9888373",
+          "Long": "-104.4823603",
+          "Name": "Raton",
+          "Phone": "575-445-8419, 575-445-2098",
+          "Status": "false",
+          "Type": {
+              "@nil": "true"
+          }
+      }
+  ],
+  "Title Service Companies": [
+      {
+         "Address": "801 1ST ST STE D, ALAMOGORDO, NM 88310",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Alamogordo",
+         "Hours": null,
+         "Id": "297",
+         "Lat": "32.8905882",
+         "Long": "-105.9526606",
+         "Name": "Alamo MVD",
+         "Phone": "575-437-1105, 575-434-3033",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "2605 N WHITE SANDS BLVD, ALAMOGORDO, NM 88310",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Alamogordo",
+         "Hours": null,
+         "Id": "312",
+         "Lat": "32.9221114",
+         "Long": "-105.9610830",
+         "Name": "DnA Title Service",
+         "Phone": "575-921-5896",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "9231 COORS BLVD NW STE 5-7, ALBUQUERQUE, NM 87114",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Albuquerque",
+         "Hours": null,
+         "Id": "295",
+         "Lat": "35.1833468",
+         "Long": "-106.6673563",
+         "Name": "AAA New Mexico, LLC",
+         "Phone": "505-792-1938, 505-792-1131",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "10501 MONTGOMERY BLVD NE, ALBUQUERQUE, NM 87111",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Albuquerque",
+         "Hours": null,
+         "Id": "293",
+         "Lat": "35.1311341",
+         "Long": "-106.5229161",
+         "Name": "AAA New Mexico, LLC",
+         "Phone": "505-291-6611, 505-291-6613",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "6011 OSUNA RD NE STE A, ALBUQUERQUE, NM 87109",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Albuquerque",
+         "Hours": null,
+         "Id": "298",
+         "Lat": "35.1452119",
+         "Long": "-106.5814740",
+         "Name": "Amigo's MVD",
+         "Phone": "505-312-8257",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "1205 COORS BLVD SW, ALBUQUERQUE, NM 87121",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Albuquerque",
+         "Hours": null,
+         "Id": "303",
+         "Lat": "35.0649433",
+         "Long": "-106.7096296",
+         "Name": "Busy Bee MVD",
+         "Phone": "505-242-0288, 505-247-2650",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "4809 JEFFERSON ST NE, ALBUQUERQUE, NM 87109",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Albuquerque",
+         "Hours": null,
+         "Id": "304",
+         "Lat": "35.1365796",
+         "Long": "-106.5939039",
+         "Name": "Complete Compliance Sevices LLC",
+         "Phone": "505-830-3776, 505-884-3661",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "7705 BROADWAY BLVD SE, ALBUQUERQUE, NM 87105",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Albuquerque",
+         "Hours": null,
+         "Id": "307",
+         "Lat": "34.9850870",
+         "Long": "-106.6562287",
+         "Name": "Copart",
+         "Phone": "505-877-2424, 866-418-8960",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "201 SAN PEDRO DR SE, ALBUQUERQUE, NM 87108",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Albuquerque",
+         "Hours": null,
+         "Id": "313",
+         "Lat": "35.0751236",
+         "Long": "-106.5787561",
+         "Name": "El Alamo MVD",
+         "Phone": "505-268-1255",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "3675 ISLETA BLVD SW, ALBUQUERQUE, NM 87105",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Albuquerque",
+         "Hours": null,
+         "Id": "314",
+         "Lat": "35.0227762",
+         "Long": "-106.6817999",
+         "Name": "El Alamo MVD",
+         "Phone": "505-873-6155",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "601 TIJERAS AVE NW, ALBUQUERQUE, NM 87102",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Albuquerque",
+         "Hours": null,
+         "Id": "315",
+         "Lat": "35.0875125",
+         "Long": "-106.6537232",
+         "Name": "First Financial CU",
+         "Phone": "505-766-5600, 505-768-7144",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "2700 SAN MATEO BLVD NE, ALBUQUERQUE, NM 87110",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Albuquerque",
+         "Hours": null,
+         "Id": "319",
+         "Lat": "35.1112294",
+         "Long": "-106.5858811",
+         "Name": "First Financial CU",
+         "Phone": "505-462-1359",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "10701 Lomas NE #114, Albuquerque, NM 87112",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Albuquerque",
+         "Hours": null,
+         "Id": "320",
+         "Lat": "35.0874220",
+         "Long": "-106.5279676",
+         "Name": "High Desert Title, Inc.",
+         "Phone": "505-293-5521, 505-293-7084",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "110 COORS BLVD NW STE D, ALBUQUERQUE, NM 87121",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Albuquerque",
+         "Hours": null,
+         "Id": "321",
+         "Lat": "35.0811231",
+         "Long": "-106.7101436",
+         "Name": "In & Out MVD Services",
+         "Phone": "505-831-6800, 505-831-6801",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "909 BRIDGE BLVD SW STE B, ALBUQUERQUE, NM 87105",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Albuquerque",
+         "Hours": null,
+         "Id": "322",
+         "Lat": "35.0686250",
+         "Long": "-106.6665070",
+         "Name": "In & Out MVD Services",
+         "Phone": "505-842-1000, 505-842-1006",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "212 SAN PEDRO DR SE STE A, ALBUQUERQUE, NM 87108",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Albuquerque",
+         "Hours": null,
+         "Id": "323",
+         "Lat": "35.0751803",
+         "Long": "-106.5773058",
+         "Name": "In & Out MVD Services",
+         "Phone": "505-265-3000",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "1015 GEORGIA ST NE, ALBUQUERQUE, NM 87110",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Albuquerque",
+         "Hours": null,
+         "Id": "324",
+         "Lat": "35.0879327",
+         "Long": "-106.5722237",
+         "Name": "Jim's VIN's & Title Service",
+         "Phone": "505-249-3864",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "3231 COORS BLVD SW, ALBUQUERQUE, NM 87121",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Albuquerque",
+         "Hours": null,
+         "Id": "325",
+         "Lat": "35.0281679",
+         "Long": "-106.7161387",
+         "Name": "Joy Joy's Auto Emissions",
+         "Phone": "505-362-1726",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "5704 BROADWAY BLVD SE, ALBUQUERQUE, NM 87105",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Albuquerque",
+         "Hours": null,
+         "Id": "326",
+         "Lat": "34.9944460",
+         "Long": "-106.6517380",
+         "Name": "MRM Titling Services",
+         "Phone": "505-877-8068, 505-877-8099",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "1112 SAN PEDRO DR NE, ALBUQUERQUE, NM 87110",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Albuquerque",
+         "Hours": null,
+         "Id": "327",
+         "Lat": "35.0889320",
+         "Long": "-106.5771230",
+         "Name": "MS & US Title Service & Auto Sales",
+         "Phone": "505-266-1874, 505-266-1875",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "12200 PHOENIX AVE NE, ALBUQUERQUE, NM 87112",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Albuquerque",
+         "Hours": null,
+         "Id": "328",
+         "Lat": "35.1104834",
+         "Long": "-106.5032859",
+         "Name": "MVD Mobile VIN Inspection & Title Service",
+         "Phone": "505-296-2344, 505-296-2344",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "6026 2ND ST NW, ALBUQUERQUE, NM 87107",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Albuquerque",
+         "Hours": null,
+         "Id": "331",
+         "Lat": "35.1439665",
+         "Long": "-106.6305580",
+         "Name": "National Truck Services Group",
+         "Phone": "800-466-5999",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "608 CHAMA ST NE, ALBUQUERQUE, NM 87108",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Albuquerque",
+         "Hours": null,
+         "Id": "332",
+         "Lat": "35.0857717",
+         "Long": "-106.5661643",
+         "Name": "New Mexico Independent Auto Dealers Assoc.",
+         "Phone": "505-232-0809, 505-232-0810",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "8705 BROADWAY BLVD SE, ALBUQUERQUE, NM 87105",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Albuquerque",
+         "Hours": null,
+         "Id": "333",
+         "Lat": "34.9669536",
+         "Long": "-106.6608815",
+         "Name": "Premier Title Service Inc.",
+         "Phone": "505-836-3648, 505-765-2433",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "2323 WYOMING BLVD NE, ALBUQUERQUE, NM 87112",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Albuquerque",
+         "Hours": null,
+         "Id": "337",
+         "Lat": "35.1102782",
+         "Long": "-106.5513133",
+         "Name": "Quik Check Emissions",
+         "Phone": "505-362-1726, 888-587-9347",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "12515 MONTGOMERY BLVD NE, ALBUQUERQUE, NM 87111",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Albuquerque",
+         "Hours": null,
+         "Id": "338",
+         "Lat": "35.1310664",
+         "Long": "-106.4992818",
+         "Name": "Quik Check Emissions",
+         "Phone": "505-362-1726, 888-587-9347",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "2529 SAN MATEO BLVD NE, ALBUQUERQUE, NM 87110",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Albuquerque",
+         "Hours": null,
+         "Id": "339",
+         "Lat": "35.1088081",
+         "Long": "-106.5869054",
+         "Name": "Quik Check Emissions",
+         "Phone": "505-362-1726, 888-587-9347",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "800 JUAN TABO BLVD NE, ALBUQUERQUE, NM 87123",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Albuquerque",
+         "Hours": null,
+         "Id": "340",
+         "Lat": "35.0855126",
+         "Long": "-106.5140723",
+         "Name": "Quik Check Emissions",
+         "Phone": "505-362-1726, 888-587-9347",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "1720 EUBANK BLVD NE, ALBUQUERQUE, NM 87112",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Albuquerque",
+         "Hours": null,
+         "Id": "341",
+         "Lat": "35.1013956",
+         "Long": "-106.5324624",
+         "Name": "Quik Check Emissions",
+         "Phone": "505-362-1726, 888-587-9347",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "7030 MONTGOMERY BLVD NE, ALBUQUERQUE, NM 87109",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Albuquerque",
+         "Hours": null,
+         "Id": "342",
+         "Lat": "35.1305005",
+         "Long": "-106.5675800",
+         "Name": "Quik Check Emissions",
+         "Phone": "505-362-1726, 888-587-9347",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "10701 Corrales Road NW # 8, Albuquerque, NM 87114",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Albuquerque",
+         "Hours": null,
+         "Id": "343",
+         "Lat": "35.2050553",
+         "Long": "-106.6473143",
+         "Name": "Rapid MVD Services",
+         "Phone": "505-899-8883, 505-897-0802",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "10701 Corrales Road NW # 8, Albuquerque, NM 87114",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Albuquerque",
+         "Hours": null,
+         "Id": "344",
+         "Lat": "35.2050553",
+         "Long": "-106.6473143",
+         "Name": "Rapid MVD Services & Title",
+         "Phone": "505-899-8883, 505-897-0802",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "4401 COORS BLVD SW STE B, ALBUQUERQUE, NM 87121",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Albuquerque",
+         "Hours": null,
+         "Id": "347",
+         "Lat": "35.0114026",
+         "Long": "-106.7169635",
+         "Name": "Sierra Title & Registration Service",
+         "Phone": "505-275-1122, 505-452-9497",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "4015 CARLISLE BLVD NE STE B, ALBUQUERQUE, NM 87107",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Albuquerque",
+         "Hours": null,
+         "Id": "350",
+         "Lat": "35.1273359",
+         "Long": "-106.6048396",
+         "Name": "TRC",
+         "Phone": "505-559-4275, 505-349-4784",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "142 ANTHONY DR, ANTHONY, NM 88021",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Anthony",
+         "Hours": null,
+         "Id": "348",
+         "Lat": "32.0012221",
+         "Long": "-106.6057298",
+         "Name": "Speedy Title Express",
+         "Phone": "575-882-5747, 575-882-5742",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "1415 W AZTEC BLVD STE 8, AZTEC, NM 87410",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Aztec",
+         "Hours": null,
+         "Id": "345",
+         "Lat": "36.8274749",
+         "Long": "-108.0116597",
+         "Name": "Roadrunner MVD Services",
+         "Phone": "505-333-2683, 505-333-2230",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "2100 BOSQUE FARMS BLVD, BOSQUE FARMS, NM 87068",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Bosque Farms",
+         "Hours": null,
+         "Id": "309",
+         "Lat": "34.8441865",
+         "Long": "-106.6907097",
+         "Name": "Desert Blossom Title Service",
+         "Phone": "505-710-8120, 1-866-407-2505",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "5307 N PRINCE ST, CLOVIS, NM 88101",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Clovis",
+         "Hours": null,
+         "Id": "306",
+         "Lat": "34.4520374",
+         "Long": "-103.1964087",
+         "Name": "Complete Compliance Sevices LLC",
+         "Phone": "575-762-3077, 575-762-9851",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "2300 N MAIN ST STE 7, CLOVIS, NM 88101",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Clovis",
+         "Hours": null,
+         "Id": "330",
+         "Lat": "34.4215384",
+         "Long": "-103.2067512",
+         "Name": "National Truck Services Group",
+         "Phone": "800-466-5999, 888-395-0145",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "2905 N PRINCE ST # D1, CLOVIS, NM 88101",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Clovis",
+         "Hours": null,
+         "Id": "346",
+         "Lat": "34.4277463",
+         "Long": "-103.1955293",
+         "Name": "Roadrunner Title Services",
+         "Phone": "575-935-7787, 575-935-7788",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "7 CABRITA TRL, EDGEWOOD, NM 87015",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Edgewood",
+         "Hours": null,
+         "Id": "292",
+         "Lat": "35.1407007",
+         "Long": "-106.1676048",
+         "Name": "A One Title Service LLC",
+         "Phone": "505-440-4668, 505-281-8178",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "628 N RIVERSIDE DR STE D, ESPANOLA, NM 87532",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Espanola",
+         "Hours": null,
+         "Id": "336",
+         "Lat": "35.9990844",
+         "Long": "-106.0640638",
+         "Name": "Quick MVD Services",
+         "Phone": "505-747-4926",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "3501 E MAIN ST STE G, FARMINGTON, NM 87402",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Farmington",
+         "Hours": null,
+         "Id": "300",
+         "Lat": "36.7498292",
+         "Long": "-108.1583394",
+         "Name": "ASAP MVD LLC",
+         "Phone": "505-325-2228",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "540 CR 350, Farmington, NM 87401",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Farmington",
+         "Hours": null,
+         "Id": "305",
+         "Lat": "36.7313125",
+         "Long": "-108.0828141",
+         "Name": "Complete Compliance Sevices LLC",
+         "Phone": "505-632-2159, 505-632-8126",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "4919 E MAIN ST STE 103, FARMINGTON, NM 87402",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Farmington",
+         "Hours": null,
+         "Id": "318",
+         "Lat": "36.7668954",
+         "Long": "-108.1453547",
+         "Name": "First Financial CU",
+         "Phone": "505-462-1702",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "119A COUNTY RD 3566, FLORA VISTA, NM 87415",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Flora Vista",
+         "Hours": null,
+         "Id": "302",
+         "Lat": "36.8344500",
+         "Long": "-108.0775187",
+         "Name": "Blue Sky VIN Inspections",
+         "Phone": "505-486-5797, 505-334-1475",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "1383 US HIGHWAY 491, GALLUP, NM 87301",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Gallup",
+         "Hours": null,
+         "Id": "317",
+         "Lat": "35.5464009",
+         "Long": "-108.7597932",
+         "Name": "First Financial CU",
+         "Phone": "505-462-1601",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "4206 HIGHWAY 64 STE A1, KIRTLAND, NM 87417",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Kirtland",
+         "Hours": null,
+         "Id": "334",
+         "Lat": "36.7430233",
+         "Long": "-108.3567616",
+         "Name": "Pronto Motor Vehicle Processing",
+         "Phone": "505-325-5863, 505-325-0298",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "3991 E LOHMAN AVE STE A, LAS CRUCES, NM 88011",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Las Cruces",
+         "Hours": null,
+         "Id": "296",
+         "Lat": "32.3206918",
+         "Long": "-106.7326323",
+         "Name": "AAA New Mexico, LLC",
+         "Phone": "575-523-5681, 575-526-8684",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "1475 N MAIN ST STE C, LAS CRUCES, NM 88001",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Las Cruces",
+         "Hours": null,
+         "Id": "308",
+         "Lat": "32.3215049",
+         "Long": "-106.7823046",
+         "Name": "Coronado Finance",
+         "Phone": "575-523-5647, 575-523-9312",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "3457 STATE HIGHWAY 47 STE F, LOS LUNAS, NM 87031",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Los Lunas",
+         "Hours": null,
+         "Id": "301",
+         "Lat": "34.8084188",
+         "Long": "-106.6997861",
+         "Name": "ASAP MVD LLC",
+         "Phone": "505-865-4080",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "1026 PUEBLO SOLANO RD NW, LOS RANCHOS, NM 87107",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Los Ranchos",
+         "Hours": null,
+         "Id": "299",
+         "Lat": "35.1637506",
+         "Long": "-106.6474365",
+         "Name": "Approved VIN Inspections & NCIC Clearances",
+         "Phone": "505-344-7894, 505-344-7894",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "700 W 2ND ST, PORTALES, NM 88130",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Portales",
+         "Hours": null,
+         "Id": "316",
+         "Lat": "34.1819900",
+         "Long": "-103.3418900",
+         "Name": "First Financial CU",
+         "Phone": "505-462-1601, 505-768-7144",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "1707 SE MAIN ST, ROSWELL, NM 88203",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Roswell",
+         "Hours": null,
+         "Id": "311",
+         "Lat": "33.4148222",
+         "Long": "-104.5227911",
+         "Name": "DMV Title Service Express",
+         "Phone": "575-622-5213, 575-622-5213",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "3312 AVENIDA DEL ORO, SANTA FE, NM 87507",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Santa Fe",
+         "Hours": null,
+         "Id": "291",
+         "Lat": "35.6391762",
+         "Long": "-106.0023743",
+         "Name": "A & P Title Service",
+         "Phone": "505-470-7744, 505-471-9312",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "3517 ZAFARANO DR STE D, SANTA FE, NM 87507",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Santa Fe",
+         "Hours": null,
+         "Id": "294",
+         "Lat": "35.6420950",
+         "Long": "-106.0121806",
+         "Name": "AAA New Mexico, LLC",
+         "Phone": "505-471-6620, 505-471-7855",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "2538 CAMINO ENTRADA STE 101A, SANTA FE, NM 87507",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Santa Fe",
+         "Hours": null,
+         "Id": "329",
+         "Lat": "35.6349914",
+         "Long": "-106.0230912",
+         "Name": "MVD Pros",
+         "Phone": "505-467-8076",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "5300 McNutt Road Ste #10, Santa Teresa, NM 88008",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Santa Teresa",
+         "Hours": null,
+         "Id": "349",
+         "Lat": "31.8490540",
+         "Long": "-106.6248665",
+         "Name": "Title Plus LLC",
+         "Phone": "575-589-0908",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "606 N CALIFORNIA ST, SOCORRO, NM 87801",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Soccorro",
+         "Hours": null,
+         "Id": "335",
+         "Lat": "34.0630059",
+         "Long": "-106.8917331",
+         "Name": "Quick & Easy Wrecker & Title Service Co",
+         "Phone": "575-835-2678, 575-835-2203",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      },
+      {
+         "Address": "1518 MCNUTT RD, SUNLAND PARK, NM 88063",
+         "AlternateAddress": null,
+         "DateModified": "0001-01-01T00:00:00",
+         "Fax": null,
+         "FieldOfficeFound": "false",
+         "FieldOfficeId": "0",
+         "Group": "Sunland Park",
+         "Hours": null,
+         "Id": "310",
+         "Lat": "31.7963330",
+         "Long": "-106.5650590",
+         "Name": "DH MVD Title Service",
+         "Phone": "575-589-0822, 575-589-4072",
+         "Status": "false",
+         "Type": {
+            "@nil": "true"
+         }
+      }
+   ]
+}
